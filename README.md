@@ -1,1 +1,1 @@
-# homework_hw0
+# MCIS6273 Data Mining / Fall 2022
